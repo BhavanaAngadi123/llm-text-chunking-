@@ -25,3 +25,10 @@ The script prints:
 2. Cleaned text length
 3. Number of chunks generated
 4. First three text chunks
+
+## Libraries Used
+
+- requests
+- re (Regular Expressions)
+- Python standard libraries
+- scikit-learn (for text processing utilities)
